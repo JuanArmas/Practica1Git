@@ -74,6 +74,6 @@ public class Persona {
 	public void setFecha_nac(LocalDate fecha_nac) {
 		this.fecha_nac = fecha_nac;
 		
-		//ESTA SERÁ LA TERCERA VERSION DEL GIT
+		//ESTA SERÁ LA cuarta VERSION DEL GIT
 	}
 }
